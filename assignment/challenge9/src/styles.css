@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(179, 218, 179);
+}
+
+.largeScreen {
+  background-color: #eebc11;
+}
+
+.mediumScreen {
+  background-color: #904ead;
+}
+
+.smallScreen {
+  background-color: #2d8cd5;
+}
