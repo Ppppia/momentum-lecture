@@ -1,0 +1,25 @@
+.h1 {
+  font-size: 34px;
+}
+
+#number-range {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#number-range input {
+  width: 200px;
+}
+
+#play-game {
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+#game-result {
+  font-size: 18px;
+  font-weight: 600;
+}
